@@ -1,0 +1,9 @@
+Currency-84599
+ShipLevel-3
+PrimaryWeapon1-3
+PrimaryWeapon2-3
+SecondaryWeapon1-3
+SecondaryWeapon2-3
+Ability1Count-5
+Ability2Count-5
+Ability3Count-5

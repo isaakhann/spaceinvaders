@@ -1,0 +1,24 @@
+Your Information
+Bilkent ID:
+Name-Surname:
+Group No: 
+
+Project Teammate 1
+Name-Surname:
+Grade (0-10):
+Reason:
+
+Project Teammate 2
+Name-Surname:
+Grade (0-10):
+Reason:
+
+Project Teammate 3
+Name-Surname:
+Grade (0-10):
+Reason:
+
+Project Teammate 4
+Name-Surname:
+Grade (0-10):
+Reason:

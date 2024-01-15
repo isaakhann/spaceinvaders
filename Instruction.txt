@@ -1,0 +1,6 @@
+Open Space Inavders in Android Studio and run in on desktop through Desktop Launcher
+
+Shop is seprate as we told in presentation and not integrated in the Game You can check it by opening the folder with the assests in Visual Studio Code 
+and running it and see changes in tools.txt as changes occur in the Shop.
+
+ZenLauncher can be run from Visual Studio only. Also need to download C# Winforms

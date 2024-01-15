@@ -1,0 +1,14 @@
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\bin\Debug\Zen Launcher Reloaded.exe.config
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\bin\Debug\Zen Launcher Reloaded.exe
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\bin\Debug\Zen Launcher Reloaded.pdb
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.csproj.AssemblyReference.cache
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen_Launcher_Reloaded.Form1.resources
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen_Launcher_Reloaded.Properties.Resources.resources
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.csproj.GenerateResource.cache
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.csproj.CoreCompileInputs.cache
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.csproj.CopyComplete
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.exe
+C:\Users\Anshuman\source\repos\Zen Launcher Reloaded\Zen Launcher Reloaded\obj\Debug\Zen Launcher Reloaded.pdb
